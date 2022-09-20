@@ -1,3 +1,3 @@
 #Demo
 
-Just for demonstration
+Just some demonstration.
